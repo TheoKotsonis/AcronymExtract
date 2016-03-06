@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<acron_collection>
+<record>
+<id>1</id>
+<title>Lung Nodule Detection Performance in Five Observers on Computed tomography (CT) with Adaptive Iterative Dose Reduction using Three-Dimensional Processing (AIDR 3D) in a Japanese Multicenter Study: Comparison between Ultra-Low-Dose CT and Low-Dose CT by Receiver-Operating Characteristic Analysis</title>
+<author>Yukihiro Nagatanicorrespondenceemail, Masashi Takahashi, Kiyoshi Murata, Mitsuru Ikeda, Tsuneo Yamashiro, Tetsuhiro Miyara, Hisanobu Koyama, Mitsuhiro Koyama, Yukihisa Sato, Hiroshi Moriya, Satoshi Noma, Noriyuki Tomiyama, Yoshiharu Ohno, Sadayuki Murayama</author>
+<text>
+•Using AIDR 3D, ULDCT showed comparable LND of solid nodules to LDCT.
+•Using AIDR 3D, LND of smaller GGN in ULDCT was inferior to that in LDCT.
+•Effective dose in ULDCT was about only twice of that in chest X-ray.
+•BMI values in study population were mostly in the normal range body habitus.
+Purpose
+To compare lung nodule detection performance (LNDP) in computed tomography (CT) with adaptive iterative dose reduction using three dimensional processing (AIDR3D) between ultra-low dose CT (ULDCT) and low dose CT (LDCT)
+Materials and methods
+This was part of the Area-detector Computed Tomography for the Investigation of Thoracic Diseases (ACTIve) Study, a multicenter research project being conducted in Japan. Institutional Review Board approved this study and informed consent was obtained. Eighty-three subjects (body mass index, 23.3 ± 3.2) underwent chest CT at 6 institutions using identical scanners and protocols. In a single visit, each subject was scanned using different tube currents: 240, 120 and 20 mA (3.52, 1.74 and 0.29 mSv, respectively). Axial CT images with 2-mm thickness/increment were reconstructed using AIDR3D. Standard of reference (SOR) was determined based on CT images at 240 mA by consensus reading of 2 board- certificated radiologists as to the presence of lung nodules with the longest diameter (LD) of more than 3 mm. Another 5 radiologists independently assessed and recorded presence/absence of lung nodules and their locations by continuously-distributed rating in CT images at 20 mA (ULDCT) and 120 mA (LDCT). Receiver-operating characteristic (ROC) analysis was used to evaluate LNDP of both methods in total and also in subgroups classified by LD (>4, 6 and 8 mm) and nodular characteristics (solid and ground glass nodules).
+Results
+For SOR, 161 solid and 60 ground glass nodules were identified. No significant difference in LNDP for entire solid nodules was demonstrated between both methods, as area under ROC curve (AUC) was 0.844 ± 0.017 in ULDCT and 0.876 ± 0.026 in LDCT (p = 0.057). For ground glass nodules with LD 8 mm or more, LNDP was similar between both methods, as AUC 0.899 ± 0.038 in ULDCT and 0.941 ± 0.030 in LDCT. (p = 0.144).
+Conclusion
+ULDCT using AIDR3D with an equivalent radiation dose to chest x-ray could have comparable LNDP to LDCT with AIDR3D except for smaller ground glass nodules in cases with normal range body habitus.
+
+
+</text>
+</record>
+<record>
+<id>2</id>
+<title>
+Tumor metabolism and tumor perfusion ratio assessed by 18F-FDG PET/CT and DCE-MRI in breast cancer patients: Correlation with tumor subtype and histologic prognostic factors
+</title>
+<author>Young-Sil An, Doo Kyoung Kang, Yong Sik Jung, Sae-Hwan Han, Tae Hee</author><text>
+•In non-triple negative breast cancer, metabolic parameter (SUVmax) was significantly correlated with perfusion parameters (Kep and Ve).
+•In triple negative cancers, any perfusion parameters didn’t correlated with metabolic parameters.
+•Compared to non-triple negative breast cancer, higher SUVmax, higher SUVmax/Ktrans, higher MTV50/Ktrans, higher TLG50/Ktrans, higher TLG50/Ve ratios were significantly correlated with TNBC.
+•Lower Ktrans and lower Ve were also significantly associated triple negative breast cancer.
+•In triple negative breast cancer, perfusion and metabolic parameters are not significantly correlated. And triple negative breast cancer showed higher metabolic-perfusion ratios compared to non-triple negative breast cancer.
+Abstract
+Objective
+Our purpose was to evaluate whether breast cancer with high metabolic-perfusion ratio would be associated with poor histopathologic prognostic factors and whether triple negative breast cancer (TNBC) would show high metabolic-perfusion ratio compared to non-triple negative breast cancer (non-TNBC).
+Methods
+From March 2011 to November 2011, 67 females with invasive ductal carcinoma of breast who underwent both MRI and 18F-FDG PET/CT were included. Perfusion parameters including Ktrans, Kep and Ve were acquired from Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI). Metabolic parameters including the standardized uptake value (SUV) and volumetric metabolic parameters including metabolic tumor volume (MTV) and total lesion glycolysis (TLG) were obtained from F-18 fluorodeoxyglucose positron emission tomography/computed tomography (FDG PET/CT).
+Results
+In non-TNBC, SUVmax was significantly correlated with Kep (ρ = 0.298, P= 0.036) and Ve (ρ = -0.286, P= 0.044). In TNBC, there was no significant correlation between all perfusion and metabolic parameters. Compared to non-TNBC, higher SUVmax (10.2 vs 5.3, p &lt;0.001), higher SUVmax/Ktrans (56.02 vs 20.3, p &lt;0.001), higher MTV50/Ktrans (7.8 vs 16.54, p &lt;0.001), higher TLG50/Ktrans (36.49 vs 12.3, p &lt;0.001), higher TLG50/Ve (91.34 vs 27.1 p = 0.022) were significantly correlated with TNBC. Lower Ktrans (0.17 vs 0.29, p = 0.017) and lower Ve (0.29 vs 0.41, p = 0.011) were also significantly associated TNBC.
+Conclusion
+While several perfusion parameters and metabolic parameters were correlated in non-TNBC, they were not correlated in TNBC. TNBC showed higher metabolic-perfusion ratios compared to non-TNBC.
+</text>
+</record>
+<record>
+<id>3</id>
+<title>Neuroimaging in refractory epilepsy. Current practice and evolving trends</title>
+<author> N. Ramli, K. Rahmat, K.S. Lim, C.T. Tan</author>
+<text>
+•Neuroimaging is mandatory and crucial in the diagnostic work up of patients with medically refractory epilepsy and for therapeutic assessment in search for potential surgical cure.
+•Identification of concordant epileptogenic zone/lesions on EEG, MRI and functional imaging is important as the success of surgical treatment depends on complete resection of the epileptogenic zone.
+•Recent technical advances in high performance MRI have greatly enhanced the ability to illustrate structural neuroanatomy, clarify metabolic information and elucidate functions of the brain.
+•Optimisation of epilepsy imaging protocols and current trends in functional MRI sequences including MR spectroscopy, diffusion tensor imaging and functional MRI are presented in this article.
+Abstract
+Identification of the epileptogenic zone is of paramount importance in refractory epilepsy as the success of surgical treatment depends on complete resection of the epileptogenic zone. Imaging plays an important role in the locating and defining anatomic epileptogenic abnormalities in patients with medically refractory epilepsy. The aim of this article is to present an overview of the current MRI sequences used in epilepsy imaging with special emphasis of lesion seen in our practices. Optimisation of epilepsy imaging protocols are addressed and current trends in functional MRI sequences including MR spectroscopy, diffusion tensor imaging and fusion MR with PET and SPECT are discussed.
+</text>
+</record>
+<record>
+<id>4</id>
+<title>Triage for suspected acute Pulmonary Embolism: Think before opening Pandora's Box</title>
+<author>David Levin, Joon Beom Seo, David G. Kiely, Hiroto Hatabu, Warren Gefter, Edwin J.R. van Beek, Mark L.</author>
+<text>
+This is a review of the current strengths and weaknesses of the various imaging modalities available for the diagnosis of suspected non-massive Pulmonary Embolism (PE). Without careful consideration for the clinical presentation, and the timely application of clinical decision support (CDS) methodology, the current overutilization of imaging resources for this disease will continue. For a patient with a low clinical risk profile and a negative D-dimer there is no reason to consider further workup with imaging; as the negative predictive value in this scenario is the same as imaging. While the current efficacy and effectiveness data support the continued use of Computed Tomographic angiography (CTA) as the imaging golden standard for the diagnosis of PE; this test does have the unintended consequences of radiation exposure, possible overdiagnosis and overuse. There is a persistent lack of appreciation on the part of ordering physicians for the effectiveness of the alternatives to CTA (ventilation–perfusion imaging and contrast enhanced magnetic resonance angiography) in these patients. Careful use of standardized protocols for patient triage and the application of CDS will allow for a better use of imaging resources.
+</text>
+</record>
+<record>
+<id>5</id>
+<title>Performance of FLT-PET for pulmonary lesion diagnosis compared with traditional FDG-PET: A meta-analysis</title>
+<author>Zixing Wang1, Yuyan Wang1, Xin Sui, Wei Zhang, Ruihong Shi, Yingqiang Zhang, Yonghong Dang, Zhen Qiao, Biao Zhang, Wei</author>
+<text>
+•FDG PET is more sensitive compared with FLT for detecting small and early staged lung cancers.
+•FLT can reduce false positives of FDG for inflammation-based lesions such as tuberculosis.
+•FLT shows comparable accuracies for diagnoses of late stage tumors and larger pulmonary lesions.
+Abstract
+Purpose
+Widely used 18F 2-deoxy-2-fluoro-d-glucose (FDG) positron emission tomography (PET) can be problematic with false positives in cancer imaging. This study aims to investigate the diagnostic accuracy of a candidate PET tracer, 18F 2?,3?-dideoxy-3?-fluoro-2-thiothymidine (FLT), in diagnosing pulmonary lesions compared with FDG.
+Materials and methods
+After comprehensive search and study selection, a meta-analysis was performed on data from 548 patients pooled from 17 studies for evaluating FLT accuracy, in which data from 351 patients pooled from ten double-tracer studies was used for direct comparison with FDG. Weighted sensitivity and specificity were used as main indicators of test performance. Individual data was extracted and patient subgroup analyses were performed.
+Results
+Overall, direct comparisons showed lower sensitivity (0.80 vs. 0.89) yet higher specificity (0.82 vs. 0.66) for FLT compared with FDG (both p &lt;0.01). Patient subgroup analysis showed FLT was less sensitive than FDG in detecting lung cancers staged as T1 or T2, and those ?2.0 cm in diameter (0.81 vs. 0.93, and 0.53 vs. 0.78, respectively, both p &lt;0.05), but was comparable for cancers staged as T3 or T4, and those &gt;2.0 cm in diameter (0.95 vs. 1.00, 0.96 vs. 0.88, both p &gt;0.05). For benignities, FLT performed better compared with FDG in ruling out inflammation-based lesions (0.57 vs. 0.32, p &lt;0.05), and demonstrated greater specificity regardless of lesion sizes.
+Conclusions
+Although FLT cannot replace FDG in detecting small and early lung cancers, it may help to prevent patients with larger or inflammatory lesions from cancer misdiagnosis or even over-treatment.
+Keywords:
+Positron-emission tomography, FLT, FDG, Lung neoplasms
+</text>
+</record>
+<record>
+<id>6</id>
+<title>Perfusion CT imaging of treatment response in oncology</title>
+<author>Davide Prezzi, Aisha Khan, Vicky Goh</author>
+<text>
+•Accurate assessment of treatment response is important for therapeutic triage.
+•RECIST may underestimate response to anti-vascular agents.
+•Changes in tumour vascularisation can be quantified by Perfusion CT.
+•The short term effects of therapeutic agents on Perfusion CT parameters vary.
+•Baseline intra-patient reproducibility studies are essential.
+Abstract
+Perfusion CT was first described in the 1970s but has become accepted as a clinical technique in recent years. In oncological practice Perfusion CT allows the downstream effects of therapies on the tumour vasculature to be monitored. From the dynamic changes in tumour and vascular enhancement following intravenous iodinated contrast agent administration, qualitative and quantitative parameters may be derived that reflect tumour perfusion, blood volume, and microcirculatory changes with treatment. This review outlines the mechanisms of action of available therapies and state-of-the-art imaging practice.
+Keywords:
+Perfusion CT, Cancer, Treatment response
+</text>
+</record>
+<record>
+<id>7</id>
+<title>Reliability and reproducibility of quantitative assessment of left ventricular function and volumes with 3-slice segmentation of cine steady-state free precession short axis images</title>
+<author>Christopher Nguyenemail, Edward Kuoyemail, Stefan Ruehmemail, Mayil Krishnam</author>
+<text>
+•Quantitative LV assessment in CMR requires contour tracing across multiple short-axis images.
+•The conventional multi-slice method for LV assessment is tedious and time-consuming.
+•3-slice segmentation is reliable and reproducible in determining LVEF, volumes, and mass.
+•3-slice segmentation is equally comparable to multi-slice assessment of LV in determining accurate LV ejection fraction (p &lt;0.05).
+•3-slice segmentation reduces post-processing time compared to conventional multi-slice segmentation.
+Abstract
+Objectives
+Quantitative assessment of left ventricular (LV) functional parameters in cardiac MR requires time-consuming contour tracing across multiple short axis images. This study assesses global LV functional parameters using 3-slice segmentation on steady state free precision (SSFP) cine short axis images and compares the results with conventional multi-slice segmentation of LV.
+Methods
+Data were collected from 61 patients who underwent cardiac MRI for various clinical indications. Semi-automated cardiac MR software was used to trace LV contours both at multiple slices from base to apex as well as just 3 slices (base, mid, and apical) by two readers. Left ventricular ejection fraction (LVEF), LV volumes, and LV mass were calculated using both methods.
+Results
+Bland-Altman plot revealed narrow limits of agreement (-4.4% to 5.1%) between LVEF obtained by the two methods. Bland-Altman analysis showed slightly wider limits of agreement between end-diastolic volumes (-5.0 to 12.0%; -3.9 to 8.5 ml/m2), end-systolic volumes (-10.9 to 14.7%; -4.1 to 6.5 ml/m2), and LV mass (-5.2 to 12.7%; -4.8 to 10.2 g/m2) obtained by the two methods. There was a small mean difference between LV volumes and LV mass obtained using multi-slice and 3-slice segmentation. No statistically significant difference existed between the LV parameters obtained by the two readers using 3-slice segmentation (p &gt;0.05). Multi-slice assessment required approximately 15 minutes per study while 3-slice assessment required less than 5 minutes.
+Conclusions
+3-slice segmentation of the left ventricle at basal, mid, and apical levels on cine SSFP short axis images can provide rapid and reliable assessment of LVEF with good reproducibility. The 3-slice method also provides a reasonable estimate of the LV volumes and LV mass.
+Keywords:
+Cardiovascular magnetic resonance imaging, Left ventricular function, Left Ventricular ejection fraction, 3-slice segmentation, Multi-slice segmentation
+Abbreviations:
+BSA (Body surface area), CI (cardiac index), CMR (cardiovascular magnetic resonance), CO (cardiac output), ECG (electrocardiogram), EDV (end diastolic volume), ESV (end systolic volume), LV (left ventricle), LVEF (left ventricular ejection fraction), EDV index (end diastolic volume index (EDV/BSA)), ESV index (end systolic volume index (ESV/BSA)), LV mass index (left ventricular mass index (left ventricular mass/BSA)), SV index (stroke volume index (SV/BSA)), SA (short axis), SSFP (steady state free precession), SV (stroke volume)
+</text>
+</record>
+<record>
+<id>8</id>
+<title>Influence of technical parameters on epicardial fat volume quantification at cardiac CT</title>
+<author>Andreas M. Bucher, U. Joseph Schoepfcorrespondenceemail, Aleksander W. Krazinski, Justin Silverman, James V. Spearman, Carlo N. De Cecco, Felix G. Meinel, Thomas J. Vogl, Lucas L. Geyer</author>
+<text>
+•Upper threshold levels and contrast enhancement influence epicardial fat volumetry.
+•Cardiac cycle does not significantly influence epicardial fat volumetry.
+•Adjustments of upper threshold can lead to comparable volumetry results.
+Abstract
+Objectives
+To systematically analyze the influence of technical parameters on quantification of epicardial fat volume (EATV) at cardiac CT.
+Methods
+153 routine cardiac CT data sets were analyzed using three-dimensional pericardial border delineation. Three image series were reconstructed per patient: (a) CTAD: coronary CT angiography (CTA), diastolic phase; (b) CTAS: coronary CTA, systolic phase; (c) CaScD: non-contrast CT, diastolic phase. EATV was calculated using three different upper thresholds (?15HU, ?30HU, ?45HU). Repeated measures ANOVA, Spearman's rho, and Bland Altman plots were used.
+Results
+Mean EATV differed between all three image series at a ?30HU threshold (CTAD 87.2 ± 38.5 ml, CTAS 90.9 ± 37.7 ml, CaScD 130.7 ± 49.5 ml, P &lt;0.001). EATV of diastolic and systolic CTA reconstructions did not differ significantly (P = 0.225). Mean EATV for contrast enhanced CTA at a ?15HU threshold (CTAD15 102.4 ± 43.6 ml, CTAS15 105.3 ± 42.3 ml) could be approximated most closely by non-contrast CT at ?45HU threshold (CaScD45 105.3 ± 40.8 ml). The correlation was excellent: CTAS15–CTAD15, rho = 0.943; CTAD15–CaScD45, rho = 0.905; CTAS15–CaScD45, rho = 0.924; each P &lt;0.001). Bias values from Bland Altman Analysis were: CTAS15–CTAD15, 4.9%; CTAD15–CaScD45, ?4.3%; CTAS15–CaScD45, 0.6%.
+Conclusions
+Measured EATV can differ substantially between contrast enhanced and non-contrast CT studies, which can be reconciled by threshold modification. Heart cycle phase does not significantly influence EATV measurements.
+Abbreviations:
+CAD (coronary artery disease), CaSc (calcium score), CT (computed tomography), CTA (CT angiography), EAT (epicardial adipose tissue), EATV (epicardial adipose tissue volume), ECG (electrocardiogram), HU (Hounsfield Units), MRI (magnetic resonance imaging) 
+Keywords:
+Risk assessment, Epicardial adipose tissue, Cardiac computed tomography, Software tool, Cardiovascular disease
+</text>
+</record>
+<record>
+<id>9</id>
+<title>Role of digital tomosynthesis and dual energy subtraction digital radiography in detecting pulmonary nodules</title>
+<author>Sarvana G. Kumar, Mandeep Kumar Gargcorrespondenceemail, Niranjan Khandelwal, Pankaj Gupta, Dheeraj Gupta, Ashutosh Nath Aggarwal, Subash Chand Bansal</author>
+<text>
+Department of Radiodiagnosis and Imaging and Department of Pulmonary Medicine, Postgraduate Institute of Medical Education and Research (PGIMER), Chandigarh 160012, India
+•Accuracy of digital tomosynthesis for nodule detection is substantially higher.
+•Improvement in diagnostic accuracy is most pronounced for nodules&lt;10 mm.
+•There is five times increase in radiation dose compared to DR.
+Abstract
+Objective
+Digital tomosynthesis (DT) and dual-energy subtraction digital radiography (DES-DR) are known to perform better than conventional radiography in the detection of pulmonary nodules. Yet the comparative diagnostic performances of DT, DES-DR and digital radiography (DR) is not known. The present study compares the diagnostic performances of DT, DES-DR and DR in detecting pulmonary nodules.
+Subjects and methods
+The institutional Review Board approved the study and informed written consent was obtained. Fifty-five patients (30 with pulmonary nodules, 25 with non-nodular focal chest pathology) were included in the study. DT and DES-DR were performed within14 days of MDCT. Composite images acquired at high kVp as part of DES-DR were used as DR images. Images were analyzed for presence of nodules and calcification in nodules. Interpretations were assigned confidence levels from 1 to 5 according to Five-Point rating scale. Areas under the receiver operating characteristic curves were compared using Z test.
+Results
+A total of 110 (88 non-calcified, 22 calcified) nodules were identified on MDCT. For detection of nodules, DR showed cumulative sensitivity and specificity of 25.45% and 67.97% respectively. DT showed a cumulative sensitivity and specificity of 60.9% and 85.07% respectively. The performance was significantly better than DR (p &lt;0.003). DES-DR showed sensitivity and specificity of 27.75% and 82.64%, not statistically different from those of DR (p-0.92). In detection of calcification, there was no statistically significant difference between DT, DES-DR and DR.
+Conclusions
+DT performs significantly better than DES-DR and DR at the cost of moderate increase in radiation dose.
+Keywords:
+Digital radiography, Digital tomosynthesis, Dual energy subtraction radiography, Pulmonary nodule
+</text>
+</record>
+<record>
+<id>10</id>
+<title>Ultrasound molecular imaging: Moving toward clinical translation</title>
+<author>Lotfi Abou-Elkacem1, Sunitha V. Bachawal1, Jurgen K. Willmann</author>
+<text>
+•Ultrasound molecular imaging is a highly sensitive modality.
+•A clinical grade ultrasound contrast agent has entered first in human clinical trials.
+•Several new potential future clinical applications of ultrasound molecular imaging are being explored.
+Abstract
+Ultrasound is a widely available, cost-effective, real-time, non-invasive and safe imaging modality widely used in the clinic for anatomical and functional imaging. With the introduction of novel molecularly-targeted ultrasound contrast agents, another dimension of ultrasound has become a reality: diagnosing and monitoring pathological processes at the molecular level. Most commonly used ultrasound molecular imaging contrast agents are micron sized, gas-containing microbubbles functionalized to recognize and attach to molecules expressed on inflamed or angiogenic vascular endothelial cells. There are several potential clinical applications currently being explored including earlier detection, molecular profiling, and monitoring of cancer, as well as visualization of ischemic memory in transient myocardial ischemia, monitoring of disease activity in inflammatory bowel disease, and assessment of arteriosclerosis. Recently, a first clinical grade ultrasound contrast agent (BR55), targeted at a molecule expressed in neoangiogenesis (vascular endothelial growth factor receptor type 2; VEGFR2) has been introduced and safety and feasibility of VEGFR2-targeted ultrasound imaging is being explored in first inhuman clinical trials in various cancer types. This review describes the design of ultrasound molecular imaging contrast agents, imaging techniques, and potential future clinical applications of ultrasound molecular imaging.
+Keywords:
+Molecular imaging, Microbubbles, Ultrasound, Cancer, Inflammation, Clinical translation
+</text>
+</record>
+<record>
+<id>11</id>
+<title>Cervical lymph node hyperplasia on [18F]-fluorodeoxyglucose positron emission tomography/computed tomography scan after treatment of children and adolescents with malignant lymphoma</title>
+<author>Ying-Ying Huemail, Xu Zhangemail, Wen Longemail, Xiao-Ping Linemail, Ya-Rui Zhangemail, Yuan-Hua Liemail, Zi-Zheng Xiaoemail, Rong-Liang Zhengemail, Pei-Yan Liangemail, Wei Fan</author>
+<text>
+•Cervical lymph node hyperplasia is a benign processes.
+•Lymph node hyperplasia found in treated children and adolescents with lymphoma.
+•We define imaging manifestations of cervical lymph node hyperplasia in PET/CT.
+•Awareness of lymph node hyperplasia avoid invasive procedures and over-treatment.
+Abstract
+Purpose
+To define imaging manifestations and clinical prognosis of cervical lymph node hyperplasia using [18F]-fluorodeoxyglucose positron emission tomography/computed tomography (FDG PET/CT) scanning after treatment of children and adolescents with malignant lymphoma.
+Methods
+Children and adolescent patients with malignant lymphoma who had high FDG uptake in their cervical lymph nodes via PET/CT after treatment, which was not due to tumor recurrence or residue, were retrospectively analyzed.
+Results
+Twenty-seven patients with a median age of 12 years were included; 11 had Hodgkin's disease and 16 had non-Hodgkin's lymphoma. The time from PET/CT scan to completion of therapy was 1–36 months, 85.2% (23/27) of which took place within 12 months. Three patients had confirmed lymph node follicular hyperplasia by biopsy, while all 27 patients achieved disease-free survival during the follow-up period. The maximum standardized uptake values (SUVmax) of cervical lymph nodes was 2.2–16.2 and the maximum short axis ranged from 0.3 to 1.2 cm. Cervical lymph node hyperplasia was noted in neck levels I-V, and neck level II bilaterally had the highest incidence (100%). Bilateral cervical lymph node hyperplasia was symmetrical in terms of both the SUVmax and affected locations. Thymic hyperplasia and nasopharyngeal lymphoid hyperplasia were both observed in 24 patients (88.9%). There was no relationship in terms of the SUVmax between cervical lymph nodes and thymic tissue, cervical nodes or nasopharyngeal lymphoid tissue.
+Conclusion
+Cervical lymph node hyperplasia with high FDG uptake on PET/CT scans found after treating children and adolescents with malignant lymphoma can be benign processes. Awareness of this possibility may help avoid invasive procedures and over-treatment.
+Keywords:
+Cervical lymph node, Hyperplasia, Children and adolescents, PET/CT, Lymphoma.
+</text>
+</record>
+<record>
+<id>12</id>
+<title>Ultra-low iodine concentrations iso-attenuating with diagnostic 0.5 M gadolinium in endovascular procedures to minimize the risk of contrast nephropathy: A phantom study</title>
+<author>Jakob Swanberg, Per-Erik J. Aslundemail, Rickard S. Nyman, Ulf R.O. Nymanemail</author>
+<text>
+To establish the concentrations of iodine contrast media (I-CM) iso-attenuating with 0.5 M gadolinium contrast media (Gd-CM), regarded diagnostic in catheter angiography and vascular interventions in azotemic patients, at various X-ray tube potentials with correlation to skin radiation dose.
+Materials and method
+20-mL syringes filled with 30, 40, 50, 70 and 90 mg I/mL, 0.5 M Gd-CM and air were placed in a water-equivalent phantom and exposed at about 50, 60, 70, 80 and 90 kV in an X-ray angiographic system. Relative contrast between the contrast materials and the background phantom material was measured on a PACS workstation. Radiation entrance dose, measured with a dose meter and estimated from the dose-area-product (DAP), was adjusted for radiation backscatter to simulate absorbed skin dose.
+Result
+The iodine concentrations 30, 40, 50, 70 and 90 mg/mL resulted in the same relative contrast as 0.5 M gadolinium at 53, 57, 62, 71 and 85 kVp, respectively. Air had lower relative contrast than all iodine concentrations at all kVp-settings except for 30 mg I/mL above 84 kVp. The measured skin radiation dose was less than 1 mGy per exposure at all kVp-settings, and around 25–30% lower than the dose estimations derived from the angiographic system's in-built DAP meter.
+Conclusion
+Low-kilovoltage X-ray technique and ultra-low concentrations of I-CM iso-attenuating with 0.5 M Gd-CM may be utilizable in peripheral arteriography and endovascular interventions, to minimize the total CM-dose to avoid CIN in azotemic patients.
+Keywords:
+Angiography, Contrast media, Contrast nephropathy, Renal failure
+</text>
+</record>
+<record>
+<id>13</id>
+<title>Planar and SPECT ventilation/perfusion imaging and computed tomography for the diagnosis of pulmonary embolism: A systematic review and meta-analysis of the literature, and cost and dose comparison</title>
+<author>J.J. Phillips, J. Straiton, R.T. Staff</author>
+<text>
+Diagnosing acute pulmonary embolism (PE) is an indication for scintillation V/Q imaging (planar and SPECT) and/or CTPA. This study reviews, compares and aggregates the published diagnostic performance of each modality and assesses the short-term consequences in terms of diagnostic outcomes, monetary cost, and radiation burden.
+We performed a formal literature review of available data and aggregated the finding using a summary receiver operating characteristic. A decision tree approach was used to estimate cost and dose per correct diagnosis.
+The review found 19 studies, which comprised 27 data sets (6393 examinations, from 5923 patients). The results showed that planar V/Q was significantly inferior to both V/Q SPECT and CTPA with no difference between the latter two. CTPA represents best value; £129 per correct diagnosis compared to £243 (SPECT) and £226 (planar). In terms of radiation burden V/Q SPECT was the most effective with a dose of 2.12 mSv per correct diagnosis compared with 3.46 mSv (planar) and 4.96 (CTPA) mSv.
+These findings show no performance difference between V/Q SPECT and CTPA; planar V/Q is inferior. CTPA is clearly the most cost effective technique. V/Q SPECT should be considered in situations where radiation dose is of concern or CTPA is inappropriate.
+Abbreviations:
+ARSAC (Administration of Radioactive Substances Advisory Committee), AUC (area under curve), CI (confidence interval), CT (computed tomography), CTPA (computed tomography pulmonary angiography), ImPACT (Imaging Performance Assessment of CT scanners), NICE (National Institute for Health &amp; Care Excellence), PE (pulmonary embolism), PIOPED (Prospective Investigation of Pulmonary Embolism Diagnosis), PISA-PED (Prospective Investigative Study of Acute Pulmonary Embolism Diagnosis), Q* (point on SROC curve where sensitivity=specificity), QUADAS (Quality Assessment of Diagnostic Accuracy Studies), ROC (receiver operator characteristic), SPECT (single photon emission computed tomography), SROC (summary receiver operator characteristic), V/Q (ventilation/perfusion)
+Keywords:
+Pulmonary embolism, Scintillation, V/Q, SPECT, CTPA, Performance
+</text>
+</record>
+<record>
+<id>14</id>
+<title>Noninvasive method for mapping CVR in moyamoya disease using ASL-MRI</title>
+<author>Tomoyuki Noguchi, Masatou Kawashimaemail, Masashi Nishiharaemail, Yoshiaki Egashiraemail, Shinya Azamaemail, Hiroyuki Irieemail</author>
+<text>
+•A clinical use of a pulse-wave-synchronized ASL-MRI (pulsy ASL-MRI) was proposed.
+•Resting IMP-SPECT correlated with pulsy ASL-MRI in moyamoya disease.
+•ASL-MRI could measure cerebrovascular reserve noninvasively in moyamoya disease.
+Abstract
+Purpose
+To project a noninvasive method for mapping cerebrovascular reserve (CVR) in moyamoya disease (MMD) using ASL-MRI.
+Methods
+16 MMD patients underwent cerebral blood flow (CBF) examinations by standard ASL-MRI, pulse-wave-synchronized ASL-MRI (pulsy ASL-MRI) which tagged the arterial blood coincident with a peak of a pulse wave, and single photon emission computed tomography (SPECT) imagings with iodine-123-N-isopropyl-p-iodoamphetamine in the resting (rest-IMP) and after acetazolamide challenge (ACZ-IMP). Hemispheric 32-sided cerebral blood flow (CBF) values were measured with normalized CBF maps created from standard ASL-MRI (standard-ASL value), pulsy ASL-MRI (pulsy-ASL value), rest-IMP (rest-IMP value), and ACZ-IMP (ACZ-IMP value). CVR based on rest-IMP and ACZ-IMP values (IMP-CVR) was calculated. ASL-CVR was also calculated on the basis of corrected standard-ASL values and pulsy-ASL values, which were adjusted to the ACZ-IMP values and rest-IMP values, respectively, by the least-squares method. We assessed the relationships between rest-IMP values and pulsy-ASL values, ACZ-IMP values and standard-ASL values, and IMP-CVR and ASL-CVR.
+Results
+Significant relationships were observed between rest-IMP values and pulsy-ASL values (correlation coefficient (r = 0.557, p &lt;0.01)), ACZ-IMP values and standard-ASL values (r = 0.825, p &lt;0.01), and IMP-CVR and ASL-CVR (r = 0.736, p &lt;0.01).
+Conclusions
+ASL-MRI is equivalent to SPECT and that it might serve as a noninvasive method for mapping CVR in MMD.
+Keywords:
+Arterial spin labeling, Moyamoya disease, Brain Perfusion, Pulse wave synchronization, MRI, SPECT
+</text>
+</record>
+<record>
+<id>15</id>
+<title>Paraseptal emphysema: Prevalence and distribution on CT and association with interstitial lung abnormalities</title>
+<author>Tetsuro Araki, Mizuki Nishino, Oscar E. Zazueta, Wei Gao, Josee Dupuis, Yuka Okajima, Jeanne C. Latourelle, Ivan O. Rosas, Takamichi Murakami, George T. O’Connor, George R. Washko, Gary M. Hunninghake, Hiroto Hatabu</author>
+<text>
+•The prevalence of pure paraseptal emphysema was 3% (85/2633) in the Framingham Heart Study population, predominantly affects the upper lung zone, and contributes to slightly decreased pulmonary function.
+•There was significant association between paraseptal emphysema and interstitial lung abnormalities, which is a novel finding.
+•Prevalence of paraseptal emphysema and its impact on pulmonary function could have been underestimated in the previous reports.
+Abstract
+Objective
+To investigate the prevalence and distribution of paraseptal emphysema on chest CT images in the Framingham Heart Study (FHS) population, and assess its impact on pulmonary function. Also pursued was the association with interstitial lung abnormalities.
+Materials and methods
+We assessed 2633 participants in the FHS for paraseptal emphysema on chest CT. Characteristics of the participants, including age, sex, smoking status, clinical symptoms, and results of pulmonary function tests, were compared between those with and without paraseptal emphysema. The association between paraseptal emphysema and interstitial lung abnormalities was investigated.
+Results
+Of the 2633 participants, 86 (3%) had pure paraseptal emphysema (defined as paraseptal emphysema with no other subtypes of emphysema other than paraseptal emphysema or a very few centrilobular emphysema involved) in at least one lung zone. The upper zone of the lungs was almost always involved. Compared to the participants without paraseptal emphysema, those with pure paraseptal emphysema were significantly older, and were more frequently male and smokers (mean 64 years, 71% male, mean 36 pack-years, P &lt;0.001) and had significantly decreased FEV1/FVC% (P = 0.002), and diffusion capacity of carbon monoxide (DLCO) (P = 0.002). There was a significant association between pure paraseptal emphysema and interstitial lung abnormalities (P &lt;0.001).
+Conclusions
+The prevalence of pure paraseptal emphysema was 3% in the FHS population, predominantly affects the upper lung zone, and contributes to decreased pulmonary function. Cigarette smoking, aging, and male gender were the factors associated with the presence of paraseptal emphysema. Significant association between paraseptal emphysema and interstitial lung abnormalities was observed.
+Keywords:
+Paraseptal emphysema, Interstitial lung abnormalities, CT
+</text>
+</record>
+<record>
+<id>16</id>
+<title>Four-dimensional computed tomography angiographic evaluation of cranial dural arteriovenous fistula before and after embolization</title>
+<author>Bing Tian1email, Bing Xu1email, Jianping Lu, Qi Liuemail, Li Wangemail, Minjie Wangemail</author>
+<text>
+•4D CTA showed excellent agreement with DSA with regard to identification of feeding arteries and drainage veins.
+•The most important finding was 4D CTA in determining the impact of DAVF treatment with transarterial embolization.
+•4D CTA provides images similar to those obtained with DSA both before and after treatment.
+Abstract
+Purpose
+This study aimed to evaluate the usefulness of four-dimensional CTA before and after embolization treatment with ONYX-18 in eleven patients with cranial dural arteriovenous fistulas, and to compare the results with those of the reference standard DSA.
+Patients and Methods
+Eleven patients with cranial dural arteriovenous fistulas detected on DSA underwent transarterial embolization with ONYX-18. Four-dimensional CTA was performed an average of 2 days before and 4 days after DSA. Four-dimensional CTA and DSA images were reviewed by two neuroradiologists for identification of feeding arteries and drainage veins and for determining treatment effects. Interobserver and intermodality agreement between four-dimensional CTA and DSA were assessed.
+Results
+Forty-two feeding arteries were identified for 14 fistulas in the 11 patients. Of these, 36 (85.71%) were detected on four-dimensional CTA. After transarterial embolization, one patient got partly embolized, and the fistulas in the remaining 10 patients were completely occluded. The interobserver agreement for four-dimensional CTA and intermodality agreement between four-dimensional CTA and DSA were excellent (κ = 1) for shunt location, identification of drainage veins, and fistula occlusion after treatment.
+Conclusion
+Four-dimensional CTA images are highly accurate when compared with DSA images both before and after transarterial embolization treatment. Four-dimensional CTA can be used for diagnosis as well as follow-up of cranial dural arteriovenous fistulas in clinical settings.
+Abbreviations:
+DAVF (dural arteriovenous fistula), 4D (four-dimensional)
+Keywords:
+Dural arteriovenous fistulas, Four-dimensional CTA, DSA, Embolization
+</text>
+</record>
+<record>
+<id>17</id>
+<title>Feasibility and evaluation of dual-source transmit 3D imaging of the orbits: Comparison to high-resolution conventional MRI at 3T</title>
+<author>Achim Seeger, Maximilian Schulze, Frank Schuettauf, Uwe Klose, Ulrike Ernemann, Till-Karsten Hauser</author>
+<text>
+•Reduced FOV imaging enables a 3D approach for a very fast assessment of the orbits.
+•Conventional MRI exhibited higher eSNR values and consecutively higher scores for overall image quality in the subjective readers’ analysis.
+•All pathologies could be detected compared to high-resolution conventional MRI making 3D pTX SPACE to a potential alternative and fast imaging technique.
+Abstract
+Purpose
+To prospectively compare the image quality and diagnostic performance of orbital MR images obtained by using a dual-source parallel transmission (pTX) 3D sequence (Sampling Perfection with Application optimized Contrasts using different flip angle Evolution, SPACE) with the image quality of conventional high-resolution standard protocol for clinical use in patients at 3T.
+Materials and methods
+After obtaining institutional review board approval and patient consent, 32 patients with clinical indication for orbital MRI were examined using a high-resolution conventional sequences and 3D pTX SPACE sequences. Quantitative measurements, image quality of the healthy orbit, incidence of artifacts, and the subjective diagnostic performance to establish diagnosis was rated. Statistical significance was calculated by using a Student's t-test and nonparametric Wilcoxon signed rank test.
+Results
+Length measurements were comparable in the two techniques, 3D pTX SPACE resulted in significant faster image acquisition with higher spatial resolution and less motion artifacts as well as better delineation of the optic nerve sheath. However, estimated contrast-to-noise and signal-to-noise and overall image quality as well as subjective scores of the conventional TSE imaging were rated significantly higher. The conventional MR sequences were the preferred techniques by the readers.
+Conclusion
+This study demonstrates the feasibility of 3D pTX SPACE of the orbit resulting in a rapid acquisition of isotropic high-resolution images. Although no pathology was missed in 3D pTX SPACE, conventional MRI techniques showed the higher diagnostic confidence in our study, presumably due to the higher signal-to-noise and contrast-to-noise ratios. We observed high-resolution TSE imaging to be the preferred technique, 3D pTX SPACE cannot replace conventional MRI so far.
+Keywords:
+Orbit, MRI, Parallel transmit, pTX, Reduced FOV, SPACE
+</text>
+</record>
+<record>
+<id>18</id>
+<title>Three-dimensional display of peripheral nerves in the wrist region based on MR diffusion tensor imaging and maximum intensity projection post-processing</title>
+<author>Wen Quan Ding, Xue Jun Zhou, Jin Bo Tang, Jian Hui Gu, Dong Sheng Jin</author>
+<text>
+•3D displays of peripheral nerves can be achieved by 2 MIP post-processing methods.
+•The median nerves’ FA and ADC values can be accurately measured by using DTI6 data.
+•Adopting 6-direction DTI scan and MIP can evaluate peripheral nerves efficiently.
+Abstract
+Objectives
+To achieve 3-dimensional (3D) display of peripheral nerves in the wrist region by using maximum intensity projection (MIP) post-processing methods to reconstruct raw images acquired by a diffusion tensor imaging (DTI) scan, and to explore its clinical applications.
+Methods
+We performed DTI scans in 6 (DTI6) and 25 (DTI25) diffusion directions on 20 wrists of 10 healthy young volunteers, 6 wrists of 5 patients with carpal tunnel syndrome, 6 wrists of 6 patients with nerve lacerations, and one patient with neurofibroma. The MIP post-processing methods employed 2 types of DTI raw images: (1) single-direction and (2) T2-weighted trace. The fractional anisotropy (FA) and apparent diffusion coefficient (ADC) values of the median and ulnar nerves were measured at multiple testing sites. Two radiologists used custom evaluation scales to assess the 3D nerve imaging quality independently.
+Results
+In both DTI6 and DTI25, nerves in the wrist region could be displayed clearly by the 2 MIP post-processing methods. The FA and ADC values were not significantly different between DTI6 and DTI25, except for the FA values of the ulnar nerves at the level of pisiform bone (p = 0.03). As to the imaging quality of each MIP post-processing method, there were no significant differences between DTI6 and DTI25 (p &gt;0.05). The imaging quality of single-direction MIP post-processing was better than that from T2-weighted traces (p &lt;0.05) because of the higher nerve signal intensity.
+Conclusions
+Three-dimensional displays of peripheral nerves in the wrist region can be achieved by MIP post-processing for single-direction images and T2-weighted trace images for both DTI6 and DTI25. The FA and ADC values of the median nerves can be accurately measured by using DTI6 data. Adopting 6-direction DTI scan and MIP post-processing is an efficient method for evaluating peripheral nerves.
+Abbreviations:
+DTI6 (6-direction DTI scan), DTI25 (25-direction DTI scan)
+Keywords:
+Diffusion tensor imaging, Maximum intensity projection, Peripheral nerve
+</text>
+</record>
+<record>
+<id>19</id>
+<title>Contrast-enhanced spectral mammography: Impact of the qualitative morphology descriptors on the diagnosis of breast lesions</title>
+<author>Rasha Mohamed Kamal, Maha Hussien Helal, Rasha Wessam, Sahar Mahmoud Mansour, Iman Godda, Nelly Alieldin</author>
+<text>
+•We studied interpretation criteria for enhancing lesions on CESM.
+•We evaluated the enhancement patterns of 211 breast lesions.
+•Our results proved that CESM minimized positive and negative falsies in DM.
+•The proposed CESM lexicon helped in characterization and categorization.
+Abstract
+Objective
+To analyze the morphology and enhancement characteristics of breast lesions on contrast-enhanced spectral mammography (CESM) and to assess their impact on the differentiation between benign and malignant lesions.
+Materials and method
+This ethics committee approved study included 168 consecutive patients with 211 breast lesions over 18 months. Lesions classified as non-enhancing and enhancing and then the latter group was subdivided into mass and non-mass. Mass lesions descriptors included: shape, margins, pattern and degree of internal enhancement. Non-mass lesions descriptors included: distribution, pattern and degree of internal enhancement. The impact of each descriptor on diagnosis individually assessed using Chi test and the validity compared in both benign and malignant lesions. The overall performance of CESM were also calculated.
+Results
+The study included 102 benign (48.3%) and 109 malignant (51.7%) lesions. Enhancement was encountered in 145/211 (68.7%) lesions. They further classified into enhancing mass (99/145, 68.3%) and non-mass lesions (46/145, 31.7%). Contrast uptake was significantly more frequent in malignant breast lesions (p value ?0.001). Irregular mass lesions with intense and heterogeneous enhancement patterns correlated with a malignant pathology (p value ?0.001). CESM showed an overall sensitivity of 88.99% and specificity of 83.33%. The positive and negative likelihood ratios were 5.34 and 0.13 respectively.
+Conclusion
+The assessment of the morphology and enhancement characteristics of breast lesions on CESM enhances the performance of digital mammography in the differentiation between benign and malignant breast lesions.
+Keywords:
+Digital mammography, Contrast-enhanced spectral mammography, Breast lesions, Morphology lexicon
+</text>
+</record>
+<record>
+<id>20</id>
+<title>The value of energy spectral CT in the differential diagnosis between benign and malignant soft tissue masses of the musculoskeletal system</title>
+<author>Xin Sun, Xiaodong Shao, Haisong Chen</author>
+<text>
+•Different types of tissues have different types of spectral curves.
+•We find that spectral curve is useful in the differential diagnosis of benign and malignant tumor of the musculoskeletal system.
+•Arc shaped curve is a specific sign for tumors containing abundant fat.
+Abstract
+Objective
+To explore the value of energy spectral CT in the differential diagnosis between benign and malignant tumor of the musculoskeletal system.
+Methods
+Energy spectral CT scan was performed on 100 patients with soft tissue mass caused by musculoskeletal tumors found by MRI. Solid areas with homogenous density were chosen as region of interests (ROI), avoiding necrosis, hemorrhage and calcification region. Select the optimal keV on single energy images, and then the keV–CT curve was automatically generated. All 100 cases of tumors proved by histological examination were divided into four groups, 38 cases were in benign group, 10 cases in borderline group, 49 cases in malignant group, and 3 cases of lipoma (that were analyzed separately since its curve was arc shaped, significantly different from other curves). The formula used to calculate the slope of spectral curve was as follows: slope = (Hu40 keV ? Hu80 keV)/40. As the slope was steep within the range of 40–80 keV based on preliminary observations, 40 keV and 80 keV were used as the reference points to calculate the slope value of the energy spectral curve. Kruskal–Wallis rank sum test was applied for statistical analysis, and P &lt;0.05 was considered to indicate a statistically significant difference.
+Results
+The spectral curve of benign group was gradually falling type with a mean slope of 0.75 ± 0.30, that of malignant group was sharply falling type with a mean slope of 1.64 ± 1.00, and that of borderline group was a falling type between the above two groups with a mean slope of 1.34 ± 0.45. The differences of slopes between benign and malignant group, benign and borderline group were of statistical significance (P &lt;0.05) respectively. The spectral curves of 3 cases of lipoma showed arc shaped rising type with a mean slope of ?2.00.
+Conclusion
+Spectral curve is useful in the differential diagnosis of benign and malignant tumor of the musculoskeletal system. Arc shaped curve is a specific sign for tumors containing abundant fat.
+Keywords:
+Computed tomography, Dual energy, Tumor, Musculoskeletal
+
+</text>
+</record>
+<record>
+<id>21</id>
+<title>Changes in the elasticity of fibroadenoma during the menstrual cycle determined by real-time sonoelastography</title>
+<author>Fahrettin K?l?c, Yasemin Kayadibi, Pinar Kocael, Mehmet Velidedeoglu, Ahmet Bas, Selim Bakan, Fatih Aydogan, Adem Karatas, Mehmet Halit Y?lmaz</author>
+<text>
+•We used SWE to evaluate the elasticity of fibroadenomas at different phases of the menstrual cycle, and found significant differences in the premenstrual and postmenstrual stages of the cycle.
+•We propose that one week after menstruation would be appropriate time to perform breast SWE.
+•Evaluations for the postmenstrual phase may reduce the false-positive rates of SWE examinations.
+Abstract
+Objective
+Shear-wave elastography (SWE) presents quantitative data that thought to represent intrinsic features of the target tissue. Factors affecting the metabolism of the breast parenchyma as well as age, menstrual cycle, hormone levels, pregnancy and lactation, pre-compression artifact during the examination could affect these elastic intrinsic features. Aim of our study is to determine variation of fibroadenoma elasticity during the menstrual cycle (MC) by means of real-time shear-wave elastography (SWE) and identify the optimal time for SWE evaluation.
+Methods
+Thirty volunteers (aged 20–40 years) who had biopsy-proven fibroadenoma greater than 1 cm in diameter, with regular menstrual cycle and without contraceptive medication underwent SWE (ShearWave on Aixplorer, France) once weekly during MC. Statistical data were processed by using the software Statistical Package for the Social Sciences (SPSS) 19.0. A repeated measures analysis of variance was used for each lesion where the repeated factor was the elastographic measurements (premenstrual, menstrual and postmenstrual). Pillai's trace test was used. Pairwise correlation was calculated using Bonferroni correction. Values of p &lt;0.05 were considered statistically significant.
+Results
+The mean elasticity value of fibroadenomas in mid-cycle was 28.49 ± 12.92 kPa, with the highest value obtained in the third week corresponding to the premenstrual stage (32.98 ± 13.35 kPa) and the lowest value obtained in the first week corresponding to the postmenstrual stage (25.39 ± 10.21 kPa). Differences between the elasticity values of fibroadenomas in premenstrual and postmenstrual periods were statistically significant (p &lt;0.001). There were no significant differences in lesion size between the different phases of the menstrual cycle (p &gt;0.05).
+Conclusion
+In this study, we found that there is significant difference between the elasticity values of fibroadenomas on premenstrual and postmenstrual period. We propose that one week after menstruation would be appropriate time to perform breast SWE.
+Keywords:
+Elastography, Fibroadenoma, Menstrual cycle, Ultrasonography
+</text>
+</record>
+<record>
+<id>22</id>
+<title>Good interrater reliability of a new grading system in detecting traumatic bone marrow lesions in the knee by dual energy CT virtual non-calcium images</title>
+<author>Jian-xin Cao, Yi-min Wang, Xiang-quan Kong, Cheng Yang, Peng Wang</author>
+<text>
+•We use DECT image to show traumatic bone marrow lesions (BMLs).
+•Traumatic BMLs were assessed with quantitative and qualitative analysis.
+•Time interval between CT scanning and MRI was only 1.8 ± 0.6 days.
+•All patients have no obviously fracture, and bone bruise was diagnosed.
+Abstract
+Objective
+To evaluate the capacity of dual-energy computed tomography (DECT) virtual non-calcium (VNCa) images in detecting post-traumatic bone marrow lesions (BMLs) in the knee with a new grading system.
+Methods
+DECT and magnetic resonance (MR) imaging were used to examine acute trauma of the knee in 32 patients. VNCa images were generated by dual-energy subtraction of calcium, and the lower end of the femur and upper end of the tibia each were divided into six regions for grading of bone marrow by two musculoskeletal radiologists using a four-grading system (Grade 4, very obvious lesions; Grade 3, relatively obvious lesions; Grade 2, slight or suspicious lesion on VNCa image and mild lesion on MR image; Grade 1, normal bone marrow). CT values were obtained in the BMLs. MR images were used as the reference standard. Grade 3–4 bone marrow was regarded as a positive result to evaluate the performance of VNCa images in detecting traumatic BMLs in the knee, and receiver operating characteristic (ROC) curve analysis of VNCa images for detection of knee BMLs was performed based on CT value of the bone marrow.
+Results
+Bone marrow rating by the two radiologists showed very good consistency (κ = 0.850 and 0.869 for VNCa and MR images, respectively). VNCa and MR images had good consistency (κ = 0.799 for lower end of the femur; κ = 0.659 for upper end of the tibia). When Grade 3–4 bone marrow was regarded as a positive result, the sensitivity, specificity, positive predictive value, and negative predictive value of VNCa images for detection of BMLs in the lower end of the femur were 73.5%, 98.6%, 94.7%, and 91.6%, respectively, and the values in the upper end of the tibia were 91.0%, 100.0%, 100.0%, and 95.4%, respectively. The CT values of bone marrow were (?52.5 ± 31.3) HU in positive area and (?91.2 ± 16.9) HU in negative area for the lower end of the femur, and those were (?51.3 ± 30.2) HU in positive area and (?104.7 ± 17.5) HU in negative area for the upper end of the tibia (all p values &lt;0.0001). The areas under the ROC curve of VNCa images for detection of BMLs were 0.875 for the lower end of the femur and 0.939 for the upper end of the tibia.
+Conclusion
+Good interrater reliability of this new grading system in detecting traumatic BMLs in the knee by VNCa images of DECT can be obtained with good diagnostic predictive values.
+Keywords:
+Knee joint, Trauma, Bone marrow, Dual energy computed tomography, Virtual non-calcium, Magnetic resonance imaging
+</text>
+</record>
+<record>
+<id>23</id>
+<title>Impact of full field digital mammography on the classification and mammographic characteristics of interval breast cancers</title>
+<author>Mark Knox, Angela O’Brienemail, Endre Szaboemail, Clare S. Smithemail, Helen M. Fenlonemail, Michelle M. McNicholasemail, Fidelma L. Flanaganemail</author>
+<text>
+•Digital mammography has changed the presentation of interval breast cancer.
+•Less interval breast cancers are associated with microcalcifications following FFDM.
+•Interval breast cancer audit remains a key feature of any breast screening program.
+Abstract
+Objective
+Full field digital mammography (FFDM) is increasingly replacing screen film mammography (SFM) in breast screening programs. Interval breast cancers are an issue in all screening programs and the purpose of our study is to assess the impact of FFDM on the classification of interval breast cancers at independent blind review and to compare the mammographic features of interval cancers at FFDM and SFM.
+Materials and methods
+This study included 138 cases of interval breast cancer, 76 following an FFDM screening examination and 62 following screening with SFM. The prior screening mammogram was assessed by each of five consultant breast radiologists who were blinded to the site of subsequent cancer. Subsequent review of the diagnostic mammogram was performed and cases were classified as missed, minimal signs, occult or true interval. Mammographic features of the interval cancer at diagnosis and any abnormality identified on the prior screening mammogram were recorded.
+Results
+The percentages of cancers classified as missed at FFDM and SFM did not differ significantly, 10.5% (8 of 76) at FFDM and 8.1% (5 of 62) at SFM (p = .77). There were significantly less interval cancers presenting as microcalcifications (alone or in association with another abnormality) following screening with FFDM, 16% (12 of 76) than following a SFM examination, 32% (20 of 62) (p = .02).
+Conclusion
+Interval breast cancers continue to pose a problem at FFDM. The switch to FFDM has changed the mammographic presentation of interval breast cancer, with less interval cancers presenting in association with microcalcifications.
+Keywords:
+Interval breast cancer, Breast screening, Full field digital mammography, Screen film mammography
+Abbreviations:
+FFDM (full field digital mammography), SFM (screen film mammography), INBSP (Irish National Breast Screening Program), DCIS (ductal carcinoma in situ), BIRADS (breast imaging reporting and data system)
+</text>
+</record>
+<record>
+<id>24</id>
+<title>18F-FDG-PET/CT parameters as imaging biomarkers in oral cavity squamous cell carcinoma, is visual analysis of PET and contrast enhanced CT better than the numbers?</title>
+<author>A.T. Kendi, A. Corey, K.R. Magliocca, D.C. Nickleach, J. Galt, J.M. Switchenko, M.W. El-Deiry, J.T. Wadsworth, P.A. Hudgins, N.F. Saba, D.M. Schuster</author>
+<text>
+•Highlights of our study were the significant association of higher T stage of oral cavity squamous cell carcinoma with PET/CT parameters.
+•This could be an important finding in cases where it is difficult to decide on T stage by CT only.
+•We found a significant association between ring/heterogeneous enhancement pattern of (either primary or nodal or both) oral cavity squamous cell carcinoma at contrast enhanced CT and poor prognosis.
+•This could be related to hypoxia, which is a known reason for therapy resistance. Hence therapies can be tailored in the feature depending on enhancement pattern on contrast enhanced CT.
+Abstract
+Purpose
+This study was designed to seek associations between positron emission tomography/computed tomography (PET/CT) parameters, contrast enhanced neck computed tomography (CECT) and pathological findings, and to determine the potential prognostic value of PET/CT and CECT parameters in oral cavity squamous cell carcinoma (OCSCC).
+Materials and method
+36 OCSCC patients underwent staging PET/CT and 30/36 of patients had CECT. PET/CT parameters were measured for the primary tumor and the hottest involved node, including maximum, mean, and peak standardized uptake values (SUV max, SUV mean, and SUV peak), metabolic tumor volume (MTV), total lesion glycolysis (TLG), standardized added metabolic activity (SAM), and normalized standardized added metabolic activity (N SAM). Qualitative assessment of PET/CT and CECT were also performed. Pathological outcomes included: perineural invasion, lymphovascular invasion, nodal extracapsular spread, grade, pathologic T and N stages. Multivariable logistic regression models were fit for each parameter and outcome adjusting for potentially confounding variables. Multivariable Cox proportional hazards models were used for progression free survival (PFS), locoregional recurrence free survival (LRFS), overall survival (OS) and distant metastasis free survival (DMFS).
+Results
+In multivariable analysis, patients with high (? median) tumor SUV max (OR 6.3), SUV mean (OR 6.3), MTV (OR 19.0), TLG (OR 19.0), SAM (OR 11.7) and N SAM (OR 19.0) had high pathological T-stage (T3/T4) (p &lt;0.05). Ring/heterogeneous pattern on CECT qualitative assessment was associated with worse DMFS and OS.
+Conclusion
+High PET/CT parameters were associated with pathologically advanced T stage (T3/T4). Qualitative assessment of CECT has prognostic value. PET/CT parameters did not predict clinical outcome.
+Keywords:
+Positron emission tomography, Computed tomography, Squamous cell carcinoma, Head and neck carcinoma
+</text>
+</record>
+<record>
+<id>25</id>
+<title>The impact of PET/CT on the management of hepatic and extra hepatic metastases from gastrointestinal cancers</title>
+<author>Erdal Polat, Erdal Birol Bostanci, Erol Aksoy, Kerem Karaman, Nilufer Yildirim Poyraz, Ugur Duman, Zeynep Biyikli Gencturk, Sinan Yol</author>
+<text>
+•CT is more sensitive than PET/CT in detecting hepatic metastases.
+•PET/CT is more specific in detecting hepatic metastases.
+•CT and PET/CT have equal sensitivity in detecting extra hepatic metastases.
+•PET/CT is more specific in detecting extra hepatic metastases.
+•PET/CT has an impact of about 40% on changing the management strategies.
+Abstract
+Purpose
+To investigate the efficacy of positron emission tomography/computed tomography (PET/CT) in detection and management of hepatic and extrahepatic metastases from gastrointestinal cancers.
+Materials and methods
+Between February 2008 and July 2010, patients histopathologically diagnosed with gastrointestinal cancer and showing suspected metastasis on CT screening were subsequently evaluated with PET/CT. All patients were subgrouped according to histopathological origin and localization of the primary tumor. Localization of gastrointestinal cancers was further specified as lower gastrointestinal system (GIS), upper GIS, or hepato-pancreato-biliary (HPB). Both accuracy and impact of CT and PET/CT on patient management were retrospectively evaluated.
+Results
+One hundred and thirteen patients diagnosed histopathologically with gastrointestinal cancers were retrospectively evaluated. Seventy-nine patients had adenocarcinoma and 34 patients other gastrointestinal tumors. Forty-one patients were in the upper GIS group, 30 patients in the HPB group, and 42 patients in the lower GIS group. Evaluation the diagnostic performance of PET/CT for suspected metastasis according to histopathological origin of the tumor, revealed that the sensitivity of PET/CT – although statistically not different – was higher in adenocarcinomas than in non-adenocarcinomas (90% (95% CI, 0.78–0.96) vs. 71.4% (95% CI, 0.45–0.88), P = 0.86). The specificity was not significantly different (85.7% (95% CI, 0.70–0.93) vs. 85% (95% CI, 0.63–0.94), P = 1.00). In the overall patient group; CT was significantly more sensitive than PET/CT for detection of hepatic metastases (94.7% vs. 78.9%, P = 0.042), whereas PET/CT was significantly more specific than CT (48% vs. 98.7%, P &lt;0.001). In subgroup analysis, sensitivity was not significantly different (P &gt;0.05) but specificity was significantly higher in PET/CT than CT (P &lt;0.05). The specificity of PET/CT was highest in upper GIS (100%) and HPB (100%) subgroups.
+In the overall patient group; for detection of extrahepatic metastasis, the sensitivity of CT (75%) and PET/CT (87.5%) showed no significant difference (P = 0.437). However, PET/CT was significantly more specific than CT (88.7% vs. 70.4%, P = 0.007). In subgroup analysis, no significant difference was found between CT and PET/CT either in sensitivity or in specificity (P &gt;0.05). The specificity of PET/CT was highest in the lower GIS subgroup (93%). The management of 45 patients (39.8%) was revised after PET/CT evaluation.
+Conclusions
+PET/CT has a higher specificity than CT in detecting suspected hepatic and extrahepatic metastases of gastrointestinal cancers, and has an impact of nearly 40% on changing patient management strategies.
+Keywords:
+Gastrointestinal cancer, Metastasis, Computed tomography, Positron emission tomography
+</text>
+</record>
+<record>
+<id>26</id>
+<title>Basilar artery occlusion: Prognostic signs of severity on computed tomography</title>
+<author>Pierre-Alexandre Poletti, Vitor Mendes Pereira, Karl-Olof Lovblad, Lucie Canel, Roman Sztajzel, Minerva Becker, Thomas Perneger, Alexandra Platon</author>
+<text>
+•The main CT signs associated with basilar artery occlusion were analyzed.
+•CT sign of acute ischemic lesion is significantly associated with a bad outcome.
+•The site of the basilar artery occlusion is not associated to the patients’ outcome.
+Abstract
+Purpose
+To determine the computed tomography (CT) signs that are predictive of the clinical outcome of basilar artery occlusion (BAO).
+Materials and methods
+The study population consisted in 37 patients (14 women, 23 men, mean age: 63 years), admitted with onset of neurological deficit, starting 1–72 h prior to admission, who were diagnosed with BAO on the basis of a CT examination with intravenous contrast agent. The following signs were collected on CT scans performed on admission: clot density on noncontrast images, clot length, and clot location, as well as the presence of acute ischemic lesions. The results were compared against the modified Rankin Scale (mRS) score of patients at 3 months, favorable clinical outcome being defined as a mRS score ?3.
+Results
+The clinical outcome was favorable in 13 (35%) of the 37 patients and unfavorable in 24 (65%). Signs of acute ischemia were visible in 13 of the 24 patients with unfavorable outcome but in none of the 13 patients with favorable outcome (p &lt;0.001). None of the other CT signs analyzed were significantly correlated with clinical prognosis.
+Conclusion
+Of all the CT signs analyzed, only the presence of signs of acute ischemia on the admission CT of patients with BAO was associated with poor prognosis.
+Keywords:
+Basilar artery, Occlusion, Computed tomography
+</text>
+</record>
+<record>
+<id>27</id>
+<title>Prediction of microvascular invasion of hepatocellular carcinomas with gadoxetic acid-enhanced MR imaging: Impact of intra-tumoral fat detected on chemical-shift images</title>
+<author>Ji Hye Min, Young Kon Kiml, Sanghyeok Lim, Woo Kyoung Jeong, Dongil Choi, Won Jae Lee</author>
+<text>
+•Intra-tumoral fat detected with MR imaging may suggest lower risk for MVI of HCC.
+•Alfa-fetoprotein, tumor size, and fat component were associated with MVI of HCC.
+•Chemical shift MRI should be considered for the evaluation of HCC.
+Abstract
+Purpose
+To investigate the impact of intra-tumoral fat detected by chemical-shift MR imaging in predicting the MVI of HCC.
+Materials and methods
+Gadoxetic acid-enhanced MR imaging of 365 surgically proven HCCs from 365 patients (306 men, 59 women; mean age, 55.6 years) were evaluated. HCCs were classified into two groups, fat-containing and non-fat-containing, based on the presence of fat on chemical-shift images. Fat-containing HCCs were subdivided into diffuse or focal fatty change groups. Logistic regression analyses were used to identify clinical and MR findings associated with MVI.
+Results
+Based on MR imaging, 66 tumors were classified as fat-containing HCCs and 299 as non-fat-containing HCCs. Among the 66 fat-containing HCCs, 38 (57.6%) showed diffuse fatty changes and 28 (42.4%) showed focal fatty changes. MVI was present in 18 (27.3%) fat-containing HCCs and in 117 (39.1%) non-fat-containing HCCs (P = 0.07). Univariate analysis revealed that serum alpha-fetoprotein (AFP) and tumor size were significantly associated with MVI (P &lt;0.001). A multiple logistic regression analysis showed that log AFP (odds ratio 1.178, P = 0.0016), tumor size (odds ratio 1.809, P &lt;0.001), and intra-tumoral fat (odds ratio 0.515, P = 0.0387) were independent variables associated with MVI.
+Conclusion
+Intra-tumoral fat detected with MR imaging may suggest lower risk for MVI of HCC and, therefore, a possibly more favorable prognosis, but the clinical value of this finding is uncertain.
+Keywords:
+Hepatocellular carcinoma, Fat, Microvascular invasion, Gd-EOB-DTPA, Magnetic resonance imaging
+</text>
+</record>
+<record>
+<id>28</id>
+<title>Microwave ablation of focal hepatic malignancies regardless of size: A 9-year retrospective study of 64 patients</title>
+<author>Erica S. Alexander, Farrah J. Wolf1email, Jason T. Machan, Kevin P. Charpentier, Michael D. Beland, Jason D. Iannuccilli, Richard H. Haas1email, Damian E. Dupuy</author>
+<text>
+•MWA appears to be a more effective treatment for larger tumors compared with RFA.
+•Intraoperative MWA outperformed percutaneous MWA.
+•Complications related to MWA of liver tumors were minor and self limited.
+Abstract
+Purpose
+To retrospectively evaluate the safety and efficacy of microwave ablation (MWA) as treatment for single, focal hepatic malignancies.
+Materials and Methods
+Institutional review board approval was obtained for this HIPAA-compliant study. From December 2003 to May 2012, 64 patients were treated with MWA for a single hepatic lesion, in 64 sessions. Hepatocellular carcinoma (HCC) was treated in 25 patients (geometric mean tumor size, 3.33-cm; 95% CI, 2.65–4.18-cm; range, 1.0–12.0-cm), metastatic colorectal cancer (CRC) was treated in 27 patients (geometric mean tumor size, 2.7-cm; 95% CI, 2.20–3.40-cm; range, 0.8–6.0-cm), and other histological-types were treated in 12 patients (geometric mean tumor size, 3.79-cm; 95% CI, 2.72–5.26-cm; range, 1.7–8.0-cm). Kaplan–Meier (K–M) method was used to analyze time event data. Chi-square and correlation evaluated the relationship between tumor size and treatment parameters. 
+Results
+Technical success rate was 95.3% (61/64). Treatment parameters were tailored to tumor size; as size increased more antennae were used (p &lt;0.001), treatment with multiple activations increased (p &lt;0.028), and treatment time increased (p &lt;0.001). There was no statistically significant relationship between time to recurrence and tumor size, number of activations, number of antennae, and treatment time.
+At one-year, K–M analysis predicted a likelihood of local recurrence of 39.8% in HCC patients, 45.7% in CRC metastases patients, and 70.8% in patients with other metastases. Median cancer specific survivals for patients were 38.3 months for HCC patients, 36.3 months for CRC metastases, and 13.9 months for other histological-types.
+Complications occurred in 23.4% (15/64) of sessions.
+Conclusion
+In our sample, tumor size did not appear to impact complete ablation rates or local recurrence rates for focal hepatic malignancies treated with MWA.
+Keywords:
+Microwave ablation, Hepatocellular carcinoma, Hepatic metastasis, Colorectal cancer
+</text>
+</record>
+<record>
+<id>29</id>
+<title>Medial meniscal posterior root/horn radial tears correlate with cartilage degeneration detected by T1ρ relaxation mapping</title>
+<author>Kenji Takahashi, Sanshiro Hashimoto, Hiroshi Nakamura, Atsushi Mori, Akiko Satoemail, Tokifumi Majima, Shinro Takai</author>
+<text>
+•Posterior radial tears in medial meniscus associate T1ρ values of cartilage.
+•Posterior radial tears relate to cartilage degeneration even in early-stage osteoarthritis.
+•Abnormalities in meniscus on MRI are useful for screening early-stage osteoarthritis.
+Abstract
+Objective
+This study aimed to identify factors on routine pulse sequence MRI associated with cartilage degeneration observed on T1ρ relaxation mapping.
+Materials and methods
+This study included 137 subjects with knee pain. T1ρ values were measured in the regions of interest on the surface layer of the cartilage on mid-coronal images of the femorotibial joint. Assessment of cartilage, subchondral bone, meniscus and ligaments was performed using routine pulse sequence MRI. Radiographic evaluation for osteoarthritis was also performed.
+Results
+Multiple regression analysis revealed posterior root/horn tears to be independent factors increasing the T1ρ values of the cartilage in the medial compartment of the femorotibial joint. Even when adjusted for radiographically defined early-stage osteoarthritis, medial posterior meniscal radial tears significantly increased the T1ρ values.
+Conclusions
+This study showed that posterior root/horn radial tears in the medial meniscus are particularly important MRI findings associated with cartilage degeneration observed on T1ρ relaxation mapping. Morphological factors of the medial meniscus on MRI provide findings useful for screening early-stage osteoarthritis.
+Keywords:
+Cartilage, Magnetic resonance imaging, Knee, T1ρ mapping, Osteoarthritis
+</text>
+</record>
+<record>
+<id>30</id>
+<title>Differentiation of benign and malignant skeletal lesions with quantitative diffusion weighted MRI at 3 T</title>
+<author>Shivani Ahlawat, Paras Khandheria, Ty K. Subhawong, Laura M. Fayad</author>
+<text>
+•DWI may have predictive value for the characterization of bone lesions.
+•Benign lesions have higher minimum, and mean ADC values than malignancies.
+•Minimum ADC has the highest accuracy in discerning benign from malignant lesion.
+•Minimum ADC of 0.9 ? 10.
+•All ADC measurements were made with high inter-observer concordance.
+Abstract
+Objectives
+To investigate the accuracy of quantitative diffusion-weighted imaging with apparent diffusion coefficient (ADC) mapping for characterizing bone lesions as benign or malignant.
+Methods
+At 3 T, 31 subjects with intramedullary lesions imaged by DWI (b-values 50, 400, 800 s/mm2) were included. ADC values (minimum, mean, maximum) were recorded by three observers independently. Interobserver variability and differences between ADC values in benign and malignant lesions were assessed (unpaired t-test, receiver operating characteristic (ROC) analysis).
+Results
+Of 31 lesions, 18 were benign (osteoblastic (n = 1), chondroid (n = 6), cysts (n = 4), hemangiomatosis (n = 1), fibrous (n = 3), eosinophilic granuloma (n = 1), giant cell tumor (n = 1), osteomyelitis (n = 1)) and 13 were malignant (primary (n = 5), metastases (n = 8)). Overall, there were higher minimum (1.27 ? 10?3 mm2/s vs 0.68 ? 10?3 mm2/s, p &lt;0.001), mean (1.68 ? 10?3 mm2/s vs 1.13 ? 10?3 mm2/s, p &lt;0.001), and maximum (2.09 ? 10?3 mm2/s vs 1. 7 ? 10?3 mm2/s, p = 0.03). ADC values in benign lesions compared with those in malignancies. ROC analysis revealed areas under the curve for minimum, mean, and maximum ADC values of 0.91, 0.85, and 0.71, respectively. ADC measurements were made with high inter-observer concordance (ρ = 0.83–0.96).
+Conclusion
+Quantitative ADC maps may have predictive value for the characterization of bone lesions. Benign lesions generally have higher minimum, mean, and maximum ADC values than malignancies, with the minimum value offering the highest accuracy for characterization.
+Keywords:
+Diffusion-weighted imaging, Bone tumors, ADC map, Musculoskeletal
+</text>
+</record>
+<record>
+<id>31</id>
+<title>Computed tomography (CT) findings in 88 neurofibromatosis 1 (NF1) patients: Prevalence rates and correlations of thoracic findings.</title>
+<author>Ueda K, Honda O2, Satoh Y3, Kawai M2, Gyobu T2, Kanazawa T2, Hidaka S2, Yanagawa M2, Sumikawa H4, Tomiyama N2.</author>
+<text>
+To evaluate the prevalence rates and the correlations of thoracic computed tomography (CT) findings of neurofibromatosis 1 (NF1) in 88 patients.
+MATERIALS AND METHODS:
+Chest CT images of 88 NF1 patients were independently reviewed by three observers, and the CT findings were evaluated. If abnormal findings were present, their number, size, and distribution were recorded. The prevalence rate of each CT finding was calculated, and the correlations between CT findings were analyzed.
+RESULTS:
+Of the 88 cases, 13 were positive for cysts, 16 for emphysema, 8 for nodules, 8 for GGNs (ground glass nodules), 13 for mediastinal masses, 20 for scoliosis, 44 for subcutaneous nodules, and 34 for skin nodules. Cysts showed upper and peripheral dominant distributions. Regarding 13 mediastinal masses, 2 were diagnosed as malignant peripheral nerve sheath tumors (MPNSTs), 1 was diagnosed as primary lung cancer, 2 were diagnosed as lateral meningocele, 3 were diagnosed as neurofibromas, and the remaining 7 were considered neurofibromas. There was a significant correlation between the prevalence of subcutaneous nodules and that of skin nodules. Significant positive correlations were also seen between size and number, size and rate of central distribution, and number and rate of central distribution of cysts.
+CONCLUSION:
+Various CT findings were found in NF-1 patients, and the prevalence rates of subcutaneous and skin nodules were higher than other findings. Though the prevalence rates of subcutaneous nodules and skin nodules were significantly correlated, the other CT findings in NF-1 occurred independently. The number, size, and distribution of the cysts showed significant positive correlations with each other.
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+KEYWORDS:
+CT; Lung; Mediastinum; Neurofibromatosis 1 (NF1)
+</text>
+</record>
+
+
+<record>
+<id>32</id>
+<title>CEUS of the pancreas: Still research or the standard of care.</title>
+<author>D'Onofrio M1, Canestrini S2, De Robertis R2, Crosara S2, Demozzi E2, Ciaravino V2, Pozzi Mucelli R2.</author>
+<text>
+Contrast-enhanced ultrasonography (CEUS) improves the characterization of pancreatic masses. CEUS is in fact a safe and accurate imaging method to evaluate the vascularity of pancreatic lesions. CEUS should be performed when possible immediately after the ultrasound (US) detection of a pancreatic mass. CEUS is accurate in the characterization of ductal adenocarcinoma. The use of CEUS in studying pancreatic lesions found at US, especially in the same session of ultrasound examination, is therefore recommendable to promote faster diagnosis mainly of pancreatic ductal adenocarcinoma.
+CEUS; Contrast-enhanced ultrasonography; Ductal adenocarcinoma; Pancreatic masses; Pancreatic tumors
+</text>
+</record>
+
+
+<record>
+<id>33</id>
+<title>Dynamic contrast enhanced MRI-derived parameters are potential biomarkers of therapeutic response in bladder carcinoma.</title>
+<author>Chakiba C1, Cornelis F2, Descat E3, Gross-Goupil M1, Sargos P4, Roubaud G1, Houede N5.</author>
+<text>
+To evaluate the performance of dynamic contrast enhanced (DCE) magnetic resonance (MR) imaging to assess the histological response after chemotherapy on bladder carcinoma.
+METHODS:
+From 2008 to 2010, 12 patients presenting localized urothelial carcinoma of the bladder were prospectively evaluated by DCE-MR imaging before and after two courses of cisplatin-based neoadjuvant chemotherapy. Size and thickness of tumours were measured. Relative enhancement at the arterial (rSI35s) and venous phases (rSI80s) of each tumour was obtained. Histological response was assessed and outcomes were recorded.
+RESULTS:
+Histological examination after neoadjuvant chemotherapy concluded as pathological complete response (pCR) for 6 out of 12 patients. Five patients developed recurrences (4/6 no pCR and 1/6 pCR). Significant differences, between before and after treatment, were found for patients with complete pathological response after chemotherapy for all MR quantitative values. Tumours decreased in size and thickness (both P=0.03). After treatment, rSI80s was significantly different between pCR and non-pCR patients (P=0.04) with a cut-off value of 40%. For this cut-off, sensitivity, specificity and accuracy were 83.33%. Similar recurrence free survivals were obtained if applying the MR cut-off value or the histopathological findings.
+CONCLUSION:
+Our results suggest that DCE-MR imaging may be a useful biomarker for patients with localized bladder carcinoma, improving selection before surgery.
+Biomarker; Bladder carcinoma; Contrast; MRI; Neoadjuvant chemotherapy; Therapeutic response
+</text>
+</record>
+
+
+<record>
+<id>34</id>
+<title>Dynamic perfusion CT in brain tumors.</title>
+<author>Yeung TP1, Bauman G2, Yartsev S3, Fainardi E4, Macdonald D5, Lee TY6.</author>
+<text>
+Dynamic perfusion CT (PCT) is an imaging technique for assessing the vascular supply and hemodynamics of brain tumors by measuring blood flow, blood volume, and permeability-surface area product. These PCT parameters provide information complementary to histopathologic assessments and have been used for grading brain tumors, distinguishing high-grade gliomas from other brain lesions, differentiating true progression from post-treatment effects, and predicting prognosis after treatments. In this review, the basic principles of PCT are described, and applications of PCT of brain tumors are discussed. The advantages and current challenges, along with possible solutions, of PCT are presented.
+Adiabatic Approximation of Johnson and Wilson Model; Blood flow; Blood volume; Brain tumor; Dynamic perfusion CT; Permeability-surface area product
+</text>
+</record>
+
+
+<record>
+<id>35</id>
+<title>Altered temporal features of intrinsic connectivity networks in boys with combined type of attention deficit hyperactivity disorder.</title>
+<author>Wang XH1, Li L2.</author>
+<text>
+Investigating the altered temporal features within and between intrinsic connectivity networks (ICNs) for boys with attention-deficit/hyperactivity disorder (ADHD); and analyzing the relationships between altered temporal features within ICNs and behavior scores.
+MATERIALS AND METHODS:
+A cohort of boys with combined type of ADHD and a cohort of age-matched healthy boys were recruited from ADHD-200 Consortium. All resting-state fMRI datasets were preprocessed and normalized into standard brain space. Using general linear regression, 20 ICNs were taken as spatial templates to analyze the time-courses of ICNs for each subject. Amplitude of low frequency fluctuations (ALFFs) were computed as univariate temporal features within ICNs. Pearson correlation coefficients and node strengths were computed as bivariate temporal features between ICNs. Additional correlation analysis was performed between temporal features of ICNs and behavior scores.
+RESULTS:
+ADHD exhibited more activated network-wise ALFF than normal controls in attention and default mode-related network. Enhanced functional connectivities between ICNs were found in ADHD. The network-wise ALFF within ICNs might influence the functional connectivity between ICNs. The temporal pattern within posterior default mode network (pDMN) was positively correlated to inattentive scores. The subcortical network, fusiform-related DMN and attention-related networks were negatively correlated to Intelligence Quotient (IQ) scores.
+CONCLUSION:
+The temporal low frequency oscillations of ICNs in boys with ADHD were more activated than normal controls during resting state; the temporal features within ICNs could provide additional information to investigate the altered network patterns of ADHD.
+Attention-deficit/hyperactivity disorder; Intrinsic connectivity networks; Low frequency oscillation; Resting-state fMRI; Temporal patterns
+</text>
+</record>
+
+
+<record>
+<id>36</id>
+<title>Should abdominal sequences be included in prostate cancer MR staging studies?</title>
+<author>McEvoy SH1, Lavelle LP2, Purcell YM2, Quinlan DM3, Skehan SJ2, Collins CD2, McMahon CJ2.</author>
+<text>
+Prostate cancer staging MR examinations commonly include abdominal sequences to assess for non-regional (common iliac or para-aortic) nodal metastasis. In our experience the diagnostic yield of this is limited, but incidental findings are frequent, often necessitating further investigations. The aim of this study is to assess the diagnostic utility of abdominal sequences in routine prostate cancer MR staging studies.
+METHODS:
+Findings on abdominal sequences of consecutive MRI prostate studies performed for staging newly diagnosed prostate cancer between September 2011 and September 2013 were reviewed with respect to adenopathy and additional incidental findings. Results were correlated with Gleason grade and serum prostate-specific antigen (PSA) level in each case.
+RESULTS:
+355 MRI prostate examinations were reviewed. 4 (1.1%) showed enlarged non-regional lymph nodes. Incidental findings were found in 82(23.1%) cases, neccessitating further investigation in 45 (12.7%) cases. Enlarged non-regional nodes were associated with higher PSA level and Gleason grade (p=0.007, p=0.005 respectively). With a combined threshold of PSA>20ng/mL and/or Gleason grade ?8 the sensitivity, specificity, PPV and NPV were 100, 60, 3 and 100% respectively for predicting the presence of non-regional adenopathy.
+CONCLUSIONS:
+Routine abdominal sequences are of very low yield in routine prostate cancer MR staging, frequently resulting in incidental findings requiring further work-up and should be reserved for high-risk cases. Our experience supports the use of an abdominal staging sequence in high-risk cases only.
+Incidental findings; Magnetic resonance imaging; Neoplasm staging; Prostatic neoplasms
+</text>
+</record>
+
+
+<record>
+<id>37</id>
+<title>The value of precontrast thoraco-abdominopelvic CT in polytrauma patients.</title>
+<author>Esposito AA1, Zilocchi M2, Fasani P3, Giannitto C4, Maccagnoni S5, Maniglio M6, Campoleoni M7, Brambilla R8, Casiraghi E9, Biondetti PR10.</author>
+<text>
+To evaluate the utility and radiation dose of thoraco-abdominopelvic precontrast CT in polytrauma patients.
+MATERIALS AND METHODS:
+We examined retrospectively 125 patients who underwent a thoraco-abdominopelvic CT for trauma. Two radiologists, independently, evaluated precontrast CT acquisition and two other radiologists examined the contrast-enhanced scans. A further two radiologists assessed both the acquisitions. Mean value of sensitivity (SE), specificity (SP), positive predictive value (PPV) and negative predictive value (NPV) were calculated by each group of radiologists. For 104 patients, CTDIvol, DLP data and individual mean size were collected to calculate effective dose.
+RESULTS:
+Mean values of SE, SP, PPV and NPV of findings of radiologists who assessed contrast-enhanced acquisitions were respectively: SE=85%, SP=98%, PPV=86%, NPV=88% versus: SE=43%, SP=95%, PPV=69%, NPV=88% of radiologists who examined non-contrast-enhanced scans. Mean values of radiologists who analyzed both acquisitions were: SE=80%, SP=97%, PPV=80%, NPV=88%. Neither the precontrast scans nor the precontrast and postcontrast scans together provided additional useful information compared to the single contrast-enhanced acquisition. Patients received a mean dose of 12mSv for the precontrast CT.
+CONCLUSIONS:
+Precontrast CT acquisition did not provide significant information in trauma patients, exposing them to an unjustified radiation dose.
+CT protocol; Dose reduction; Emergency radiology; Polytrauma; Whole body CT
+</text>
+</record>
+
+
+<record>
+<id>38</id>
+<title>Quantification of serial changes in cerebral blood volume and metabolism in patients with recurrent glioblastoma undergoing antiangiogenic therapy.</title>
+<author>Stadlbauer A1, Pichler P2, Karl M3, Brandner S4, Lerch C3, Renner B5, Heinz G3.</author>
+<text>
+To evaluate the usefulness of quantitative advanced magnetic resonance imaging (MRI) methods for assessment of antiangiogenic therapy (AAT) response in recurrent glioblastoma multiforme (GBM).
+METHODS:
+Eighteen patients with recurrent GBM received bevacizumab and 18 patients served as control group. Baseline MRI and two follow-up examinations were acquired every 3-5 months using dynamic susceptibility-weighted contrast (DSC) perfusion MRI and 1H-MR spectroscopic imaging (1H-MRSI). Maps of absolute cerebral blood volume (aCBV) were coregistered with choline (Cho) and N-acetyl-aspartate (NAA) concentrations and compared to usually used relative parameters as well as controls.
+RESULTS:
+Perfusion significantly decreased in responding and pseudoresponding GBMs but also in normal appearing brain after AAT onset. Cho and NAA concentrations were superior to Cr-ratios in lesion differentiation and showed a clear gap between responding and pseudoresponding lesions. Responders to AAT exceptionally frequently (6 out of 8 patients) showed remote GBM progression.
+CONCLUSIONS:
+Quantification of CBV reveals changes in normal brain perfusion due to AAT, which were not described so far. DSC perfusion MRI seems not to be suitable for differentiation between response and pseudoresponse to AAT. However, absolute quantification of brain metabolites may allow for distinction due to a clear gap at 6-9 months after therapy onset.
+Antiangiogenic therapy; Cerebral blood volume; MR spectroscopy; Quantitative MR imaging; Recurrent glioblastoma
+</text>
+</record>
+
+
+<record>
+<id>39</id>
+<title>Feasibility of free-breathing, GRAPPA-based, real-time cardiac cine assessment of left-ventricular function in cardiovascular patients at 3T.</title>
+<author>Zhu X1, Schwab F2, Marcus R3, Hetterich H4, Theisen D5, Kramer H6, Notohamiprodjo M7, Schlett CL8, Nikolaou K9, Reiser MF10, Bamberg F11.</author>
+<text>
+To determine the feasibility of free-breathing, GRAPPA-based, real-time (RT) cine 3T cardiac magnetic resonance imaging (MRI) with high acceleration factors for the assessment of left-ventricular function in a cohort of patients as compared to conventional segmented cine imaging.
+MATERIALS AND METHODS:
+In this prospective cohort study, subjects with various cardiac conditions underwent MRI involving two RT cine sequences (high resolution and low resolution) and standard segmented cine imaging. Standard qualitative and quantitative parameters of left-ventricular function were quantified.
+RESULTS:
+Among 25 subjects, 24 were included in the analysis (mean age: 50.5±21 years, 67% male, 25% with cardiomyopathy). RT cine derived quantitative parameters of volumes and left ventricular mass were strongly correlated with segmented cine imaging (intraclass correlation coefficient [ICC]: &gt;0.72 for both RT cines) but correlation for peak ejection and filling rates were moderate to poor for both RT cines (ICC&lt;0.40). Similarly, RT cines significantly underestimated peak ejection and filling rates (>103.2±178ml/s). Among patient-related factors, heart rate was strongly predictive for deviation of measurements (p&lt;0.05).
+CONCLUSIONS:
+RT cine MRI at 3T is feasible for qualitative and quantitative assessment of left ventricular function for low and high-resolution sequences but results in significant underestimation of systolic function, peak ejection and filling rates.
+Cardiac MRI; Heart rate; Left ventricular function; Parallel imaging; Real time imaging
+</text>
+</record>
+
+
+<record>
+<id>40</id>
+<title>Technical prerequisites and imaging protocols for dynamic and dual energy myocardial perfusion imaging.</title>
+<author>Cannao PM1, Schoepf UJ2, Muscogiuri G3, Wichmann JL4, Fuller SR5, Secchi F6, Varga-Szemes A5, De Cecco CN7.</author>
+<text>
+Coronary CT angiography (CCTA) is an established imaging technique used for the non-invasive morphological assessment of coronary artery disease. As in invasive coronary angiography, CCTA anatomical assessment of coronary stenosis does not adequately predict hemodynamic relevance. However, recent technical improvements provide the possibility of CT myocardial perfusion imaging (CTMPI). Two distinct CT techniques are currently available for myocardial perfusion assessment: static CT myocardial perfusion imaging (sCTMPI), with single- or dual-energy modality, and dynamic CT myocardial perfusion imaging (dCTMPI). The combination of CCTA morphological assessment and CTMPI functional evaluation holds promise for achieving a comprehensive assessment of coronary artery anatomy and myocardial perfusion using a single image modality.
+Coronary CT angiography; Coronary artery disease; Dual energy CT; Invasive coronary angiography; Myocardial perfusion imaging
+</text>
+</record>
+
+</acron_collection>
